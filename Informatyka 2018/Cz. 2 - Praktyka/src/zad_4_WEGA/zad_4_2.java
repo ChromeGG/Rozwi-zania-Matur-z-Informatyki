@@ -10,11 +10,11 @@ import java.util.Set;
 public class zad_4_2 {
 
     public static void main(String[] args) {
-        File file = new File(String.valueOf(Paths.get("Dane_PR2/sygnaly.txt")));
+        File sygnaly = new File(String.valueOf(Paths.get("Dane_PR2/sygnaly.txt")));
         Scanner inputScanner = null;
 
         try {
-            inputScanner = new Scanner(file);
+            inputScanner = new Scanner(sygnaly);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
