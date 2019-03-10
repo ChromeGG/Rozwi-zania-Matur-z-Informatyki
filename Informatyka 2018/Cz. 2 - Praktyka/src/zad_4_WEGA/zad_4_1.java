@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class Main {
+public class zad_4_1 {
     public static void main(String[] args) {
 
         for (int i = 39; i <= 1000; i += 40) {

@@ -1,6 +1,6 @@
-package zad_6_CentrumDanych;
+package zad_4_WEGA;
 
-public class Main {
+public class zad_4_3 {
     public static void main(String[] args) {
 
     }

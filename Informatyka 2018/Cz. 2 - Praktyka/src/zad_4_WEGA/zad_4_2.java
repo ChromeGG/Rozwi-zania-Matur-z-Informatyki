@@ -1,4 +1,4 @@
-package zad_5_zbiornik;
+package zad_4_WEGA;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Main {
+public class zad_4_2 {
 
     public static void main(String[] args) {
         File file = new File(String.valueOf(Paths.get("Dane_PR2/sygnaly.txt")));
